@@ -1,5 +1,5 @@
 # Sparkify_Churn_Project_with_AWS_EMR
-<img src='images/sparkify.JPG' height='200px'> <img src='images/EMR.PNG' height='200px'> <img src='images/spark.PNG' height='200px'>
+<img src='images/sparkify.JPG' height='150px'> <img src='images/EMR.PNG' height='150px'> <img src='images/spark.PNG' height='150px'>
 ## Motivation
 In our previous repository, we explored Sparkify dataset with medium size using pyspark. In this project, we make use of Amazon Web Sevice's EMR technology accompanied with Spark to further investigate the full dataset (which is as large as 12GB).
 
